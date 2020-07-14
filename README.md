@@ -1,1 +1,1 @@
-# RubyJ6
+# RubyJ6, premier exercice !
